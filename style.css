@@ -1,0 +1,61 @@
+body{font-family: 'Poppins', sans-serif;}
+
+/* header section css  */
+.header-section{
+    background-color: #264653;
+    overflow: hidden;
+    
+    
+ 
+}
+
+/* button css  */
+.button{
+    background: #E76F51;
+    
+   border-radius: 5px;
+   border:#E76F51 ;
+}
+
+/* paragraph css  */
+.para-class{
+color: #E0E0E0;
+
+}
+
+/* text css  */
+.color-text{
+
+color: #E76F51;
+}
+
+/* image css  */
+.img-class{
+    mix-blend-mode: luminosity;
+    width: 288px;
+    height: 243px;
+    
+   
+}
+
+
+#second-img{
+    width: 288px;
+    height: 243px;
+}
+/* icon css  */
+.fa-star{
+    color: #E76F51 ;
+}
+#special-icon{
+  color: #E0E0E0;
+  border: #E76F51;
+}
+/* footer css  */
+footer a{
+    text-decoration: none;
+    margin-top: 10px;
+    padding:10px;
+    margin: 10px;
+    color: white;
+}
